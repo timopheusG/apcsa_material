@@ -3,9 +3,13 @@ public class Stack{
   // This Stack class is designed for integer values >= 0
 
   // Instance variables here
-
+    public int size;
+    
+  
  // COnstructor
   public Stack(){
+    
+    
 
   }   
 
